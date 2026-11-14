@@ -1,0 +1,10 @@
+- insert:
+    - id: plastic-memories
+      name: dsh-plastic-memories
+      config:
+        userName: ''
+        assistantName: ''
+        persona: ''
+        enabled: true
+        injectDiaries: true
+        retainDays: 0
